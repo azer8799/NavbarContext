@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+.dark-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.light-background {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  height: 100vh;
+}
+
+.white-text {
+  font-family: 'Roboto';
+  color: #fff;
+  font-size: 30px;
+}
+
+.dark-text {
+  color: black;
+  font-family: 'Roboto';
+  font-size: 30px;
+}
+
+.about-logo {
+  width: 250px;
+  margin: 20px;
+}

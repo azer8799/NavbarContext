@@ -1,0 +1,31 @@
+/* Write your CSS here */
+.dark-bg {
+  background-color: black;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.light-bg {
+  background-color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.white-text {
+  color: #fff;
+  font-family: 'Roboto';
+}
+
+.dark-text {
+  color: #111;
+  font-family: 'Roboto';
+}
+
+.notfound-image {
+  width: 250px;
+  margin: 20px;
+}
